@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Cody Miller</h1>
-<h3 align="center">A Full Stack Software Developer with a passion for learning, programming, and being humbled daily by my own bugs.</h3>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hi%2C%20I'm%20Cody%20Miller!&fontAlignY=35&desc=A%20Full%20Stack%20Software%20Developer%20with%20a%20passion%20for%20learning%20and%20coding.&descAlignY=55&fontSize=90&animation=fadeIn)
 
 - 🔭 I’m currently working on [ReQuote, an application to track quotes you love from your favorite books.](https://github.com/codingcodymiller/requote)
 
@@ -11,6 +10,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/codingcodymiller" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="codingcodymiller" height="30" width="40" /></a>
 </p>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=codingcodymiller&mode=weekly)](https://git.io/streak-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingcodymiller)](https://github.com/anuraghazra/github-readme-stats)
 
 <h3 align="left">Languages and Tools:</h3>
   <p align="left">
