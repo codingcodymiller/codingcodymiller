@@ -9,7 +9,8 @@
 
 - 🔭 I’m currently working on [ReQuote, an application to track quotes you love from your favorite books.](https://github.com/codingcodymiller/requote)
 
-- 🌱 I’m currently learning **Lua for fun, so I can make a game for the Panic Playdate!**
+- 🌱 I’m currently learning **Lua, so that I can make an app for the [Panic Playdate](https://play.date/)!**
+
 
 - 📫 How to reach me **cody.miller.primary@gmail.com**
 
