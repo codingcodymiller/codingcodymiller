@@ -3,7 +3,7 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,css,bootstrap,html,md,ts,redux,postgres,graphql,webpack,sass,php,docker,heroku,nginx,jquery,regex,git,github,babel,bash,vscode,figma&perline=13" />
+    <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,css,jest,bootstrap,html,md,ts,redux,postgres,graphql,webpack,sass,php,docker,heroku,nginx,jquery,regex,git,github,babel,lua,bash,vscode,figma&perline=14" />
   </a>
 </p>
 
