@@ -7,9 +7,9 @@
   </a>
 </p>
 
-- 🔭 I’m currently working on [ReQuote, an application to track quotes you love from your favorite books.](https://github.com/codingcodymiller/requote)
+- 🔭 I’m currently working on an upcoming cozy game for the [Panic Playdate](https://play.date/) written in Lua. *Stay tuned for updates!*
 
-- 🌱 I’m currently learning **Lua, so that I can make an app for the [Panic Playdate](https://play.date/)!**
+- 📚 I’m currently reading **[A Philosophy of Software Design](https://www.amazon.com/dp/173210221X)**.
 
 
 - 📫 How to reach me **cody.miller.primary@gmail.com**
