@@ -12,7 +12,7 @@
 - 📚 I’m currently reading **[Game Programming Patterns](https://gameprogrammingpatterns.com/)**.
 
 
-- 📫 How to reach me **cody.miller.primary@gmail.com**
+- 📫 How to reach me: **cody.miller.primary@gmail.com**
 
 <h3 align="left">
   Connect with me:
