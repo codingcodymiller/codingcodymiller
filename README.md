@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on an upcoming cozy game for the [Panic Playdate](https://play.date/) written in Lua. *Stay tuned for updates!*
 
-- 📚 I’m currently reading **[A Philosophy of Software Design](https://www.amazon.com/dp/173210221X)**.
+- 📚 I’m currently reading **[Game Programming Patterns](https://gameprogrammingpatterns.com/)**.
 
 
 - 📫 How to reach me **cody.miller.primary@gmail.com**
