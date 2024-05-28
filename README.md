@@ -19,8 +19,8 @@
   <a href="https://linkedin.com/in/codingcodymiller" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="codingcodymiller" /></a>
 </h3>
 
-<div>
-  <img src="https://streak-stats.demolab.com?user=codingcodymiller&mode=weekly" style="width: 49%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingcodymiller&layout=compact&langs_count=4" style="width: 49%;" />
+<div style="display: flex">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=codingcodymiller&theme=github" style="width: 66%" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=codingcodymiller&theme=github" style="width: 33%" />
 </div>
 
